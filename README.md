@@ -1,16 +1,46 @@
-## Hi there 👋
+# Nicolas Andrade
+### Desenvolvedor Back-End
 
-<!--
-**nicxzdev/nicxzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span><img height="35px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/nodejs.svg"></span>
+<span><img height="20px" src="https://cdn.svgporn.com/logos/express.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/nestjs.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/postgresql.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/git.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/oauth.svg"></span>
 
-Here are some ideas to get you started:
+## Olá, mundo 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Meu nome é Nicolas Andrade, sou um jovem de 16 anos, Desenvolvedor Back-End, e sou apaixonado por desenvolvimento Back-End, API REST e microsserviços!
+
+* Meu objetivo é me tornar um excelente desenvolvedor back-end, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online, novos projetos e repositórios!
+
+## Principais habilidades :fireworks:
+
+* Desenvolvimento Back-End
+* Criação de API REST
+* Arquitetura REST e de microsserviços
+
+## Acadêmico 👨‍💻
+
+* **Formação NodeJS** | **Rocketseat** de 2024 a 2025. Concluído.
+* **Desenvolvimento de Sistemas** | **Etec** de 2024 a 2026. Cursando.
+
+## Principais Tecnologias ⚡
+
+* Javascript ES6
+* Node.js
+* Autenticação e autorização com OAuth2.0 e JWT
+* Docker
+* Docker-compose
+
+## Principais Frameworks :hammer: 
+
+* Fastify
+* Express.js
+* Nest.js
+
+- 💬 Caso queira tirar dúvidas ou apenas conversar sobre tecnologia, pode me contatar! 
+- 📫 Como chegar até mim? Me mande mensagem via [Whatsapp](https://wa.me/5517992042240)
+---
