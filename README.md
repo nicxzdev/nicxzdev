@@ -25,7 +25,7 @@
 ## Acadêmico 👨‍💻
 
 * **Formação NodeJS** | **Rocketseat** de 2024 a 2025. Concluído.
-* **Desenvolvimento de Sistemas** | **Etec** de 2024 a 2026. Cursando.
+* **Desenvolvimento de Sistemas** | **Etec Philadelpho Gouvêa Netto** de 2024 a 2026. Cursando.
 
 ## Principais Tecnologias ⚡
 
