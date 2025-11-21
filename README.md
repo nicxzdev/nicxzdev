@@ -12,9 +12,9 @@
 
 ## Olá, mundo 👋
 
-* Meu nome é Nicolas Andrade, sou um jovem de 16 anos, Desenvolvedor Back-End, e sou apaixonado por desenvolvimento Back-End, API REST e microsserviços!
+* Meu nome é Nicolas Andrade, sou um jovem de 17 anos, Desenvolvedor Back-End, e sou apaixonado por desenvolvimento Back-End, API REST e microsserviços!
 
-* Meu objetivo é me tornar um excelente desenvolvedor back-end, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online, novos projetos e repositórios!
+* Meu objetivo é me tornar um excelente desenvolvedor Full-Stack, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online, novos projetos e repositórios!
 
 ## Principais habilidades :fireworks:
 
@@ -25,7 +25,10 @@
 ## Acadêmico 👨‍💻
 
 * **Formação NodeJS** | **Rocketseat** de 2024 a 2025. Concluído.
+* **Curso Clean Code** | **Rocketseat** 2025. Concluído.
+* **Formação ReactJS** | **Rocketseat** 2025. Cursando.
 * **Desenvolvimento de Sistemas** | **Etec Philadelpho Gouvêa Netto** de 2024 a 2026. Cursando.
+* **Curso Banco de Dados** | **Rocketseat** 2025. Cursando.
 
 ## Principais Tecnologias ⚡
 
